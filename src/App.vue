@@ -38,6 +38,7 @@ const html = computed(() => {
       <div class="card bg-base-100 shadow">
         <div class="card-body">
           <div class="prose max-w-none" v-html="html"></div>
+          
         </div>
       </div>
 

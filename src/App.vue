@@ -42,7 +42,7 @@ const html = computed(() => {
       </div>
 
       <div class="mt-6 text-sm opacity-70">
-        Tip: Put your links to other apps/websites directly in README.md as a bullet list or table.
+
       </div>
     </main>
   </div>

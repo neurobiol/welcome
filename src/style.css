@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small improvements for Markdown typography */
+.prose a { text-decoration: underline; }

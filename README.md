@@ -18,16 +18,3 @@ Plasticity • Parkinson • and more
 
 
 
-
-
-
-
-
-
-Coming up soon:
-
-Plasticity
-
-Parkinson
-
-And more...

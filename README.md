@@ -6,16 +6,19 @@
 A link to the relevant content repository will be shared here **only during the presentation window**. 
 
 
-Are you at the Northwell Quantum Biology Forum?
+Are you at the Quantum Effects in Biological Systems?
 
-Visit poster Numbers
+Visit posters:
 
-# 112
+- on Tryptamines
 
-# 115
+- Quantum-inspired Metrics
 
-# 140 
+- Plasticity (that's me smiling at you :)
 
+Where is the line of non-triviality? What is quantum and what is not? Come, let's chat about it in Budapest! 
+
+ 
 Thank you.  
 
 # Note

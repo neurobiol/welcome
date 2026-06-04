@@ -1,6 +1,8 @@
 # welcome  
 
 
+## INSTALL THE APP. FOLLOW MY RESEARCH:
+
 [View the poster companion app here.](https://neurobiol.github.io/unlearn/)  
 
 A link to the relevant content repository will be shared here **only during the presentation window**. 
@@ -17,9 +19,21 @@ Visit posters:
 - Plasticity (that's me smiling at you :)
 
 Where is the line of non-triviality? What is quantum and what is not? Come, let's chat about it in Budapest! 
-
  
 Thank you.  
+
+# EXTRA NOTE
+
+## Some Personal Observation and Side History 
+
+Ten years ago, the 8th Workshop on Quantum Effects in Biological Systems (QuEBS 2016) was held in Durban, South Africa, from June 6 to 9, 2016.The conference was chaired and organized by Professor Francesco Petruccione, who was then based at the University of KwaZulu-Natal (UKZN).
+I was in the host institute and gave a flash talk there and it was on World Oceans Day, and I mentioned, how about studying quantum biology in the ocean. It did not make sense that time for some.
+
+Today, ten years after that, there was a talk yesterday on coral studies related to quantum biology! 
+
+What next?!
+
+
 
 # Note
 

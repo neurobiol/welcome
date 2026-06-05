@@ -1,7 +1,9 @@
 # welcome  
 
 
-## INSTALL THE APP. FOLLOW MY RESEARCH:
+## FOLLOW MY RESEARCH ON THE WEB APP.
+
+*Installation is optional.*
 
 [View the poster companion app here.](https://neurobiol.github.io/unlearn/)  
 

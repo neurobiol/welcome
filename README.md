@@ -11,7 +11,7 @@ A link to the relevant content repository will be shared here **only during the 
 
 # QIP 2026 (9 - 12 June 2026)
 
-
+[Partnered Dancing to Improve Mobility for People With Parkinson's Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC4675848/)
 
 
 

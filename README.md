@@ -5,10 +5,19 @@
 
 *Installation is optional.*
 
-[View the poster companion app here.](https://neurobiol.github.io/unlearn/)  
+[View the research (poster) companion app here.](https://neurobiol.github.io/unlearn/)  
 
 A link to the relevant content repository will be shared here **only during the presentation window**. 
 
+# QIP 2026 (9 - 12 June 2026)
+
+
+
+
+
+
+
+# QUEBS 2026 (3 - 5 June 2026)
 
 Are you at the Quantum Effects in Biological Systems?
 

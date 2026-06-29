@@ -23,17 +23,17 @@ This work develops and tests adaptive-plasticity models of memory using matched 
   Status: Preprint
 
 - **Quantum Effects in Neurobiology**  
-  Role: Co-author with Prof. T.J.A. Craddock  
-  Status: Submitted to collaborators in the United Kingdom  
+  Role: Co-author 
+  Status: Book Chapter Submitted to collaborators 
   Date: To add
 
 - **Quantum Sensing for Biology: From Physical Sensitivity to Biological Inference**  
   Role: Second author  
-  Status: Manuscript ready for submission to *PRX Life*  
+  Status: Manuscript in progress, target: *PRX Life* (upon request)
   Date: To add
 
 - **Ultraweak Photon Emission: A Multiscale Framework for Biological Sources, Measurement, Signal Processing, and Future Biomedical Use**  
-  Role: Collaborator  
+  Role: Co-author
   Status: In progress  
   Collaboration: Laurier University
 
@@ -50,9 +50,9 @@ This work develops and tests adaptive-plasticity models of memory using matched 
   Status: Accepted
 
 - **Quantum-Like Artificial Life with Memory and Plasticity**  
-  Role: Proposal author  
+  Role: author  
   Status: Proposal submitted for *Artificial Life: Biology and Computation*  
-  Note: Course audited
+  Note: Course being audited
 
 ---
 
@@ -69,28 +69,23 @@ This work develops and tests adaptive-plasticity models of memory using matched 
 
 ---
 
-### Transcriptomics and bioinformatics
+### Applied Bioinformatics and Genomics (BIOL 614)
 
 - **A Delayed Pulsed-Field Transcriptomic Program Emerges from Six-Condition RNA-seq Analysis**  
   Role: Collaborator  
-  Status: Project in collaboration with Laurier University
-
-- **Transcriptomics project completed for BIOL 614**  
-  Role: Author  
-  Status: Completed and presented  
-  Presentation date: To add
+  Status: Project in collaboration with Laurier University, completed phase 1 as coursework
 
 ---
 
 ### AI, cognition, and psychology
 
 - **Smarter in Which Sense? A Diagnostic Framework for AI--Human Intelligence Claims**  
-  Role: Collaborator  
+  Role: First author
   Status: In progress  
   Collaboration: János Szentágothai Neuroscience Doctoral School, Semmelweis University, Budapest, Hungary
 
 - **Remembering Fallibility: AI, Memory, and Intellectual Humility**  
-  Role: Proposal author  
+  Role: author  
   Status: Proposal submitted for PSYCH 650  
   Date: To add
 
@@ -100,12 +95,12 @@ This work develops and tests adaptive-plasticity models of memory using matched 
 
 - **PSSO proposal funding application**  
   Role: Applicant  
-  Status: Submitted  
+  Status: Submitted, not selected
   Date: To add
 
 - **Bergel proposal funding application**  
   Role: Applicant  
-  Status: Shortlisted for two interviews among 15 out of approximately 650  
+  Status: Shortlisted for two interviews among 15 out of approximately 650, not selected among 3 awardees, proposed advisory committee position
   Date: To add
 
 ---
@@ -151,6 +146,7 @@ This work develops and tests adaptive-plasticity models of memory using matched 
 ## Contact
 
 For questions or collaboration inquiries, please contact me by institutional email.
+yhgoolam@uwaterloo.ca
 
-Last updated: 2026.
+Last updated: June 29, 2026.
 

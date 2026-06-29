@@ -22,6 +22,12 @@ This work develops and tests adaptive-plasticity models of memory using matched 
   Role: Third author  
   Status: Preprint
 
+- **Quantum Biology Forum white paper on quantum biology and biomedical applications**
+  Role: Collaborator
+  Status: White paper in progress
+  Collaboration: Laurier University, Canada; Northwell Health / Northwell Hospital, United States; Quantum Biology Forum
+  Date: To add
+
 - **Quantum Effects in Neurobiology**  
   Role: Co-author 
   Status: Book Chapter Submitted to collaborators 
@@ -105,7 +111,25 @@ This work develops and tests adaptive-plasticity models of memory using matched 
 
 ---
 
-## Mentoring and service
+## Teaching, mentoring, and service ### Teaching assistantships 
+
+- **Bioinformatics BIOL 365**
+  Role: Teaching Assistant
+  Status: Completed, Winter term
+  Responsibilities: Supervised computational lab work, supported student work in bioinformatics analyses, and helped with computational troubleshooting during laboratory activities.
+
+- **Molecular Biology Foundations BIOL 235**
+  Role: Teaching Assistant
+  Status: In progress
+  Responsibilities: Supervise wet-lab activities, support molecular-biology laboratory exercises, and help students with experimental workflow and laboratory practice.
+
+
+### Research mentoring 
+
+- **Computational Study of Fano-like Vibronic Resonances in Protein Molecular Networks** 
+Role: Research co-supervisor / mentor for two undergraduate students 
+Status: In progress 
+Responsibilities: Supervising a computational project on possible Fano-like resonance behavior in protein molecular systems; training students in high-performance computing, supercomputer use, computational workflows, data analysis, and interpretation of spectroscopic/modeling outputs.
 
 - **Remote mentoring of an undergraduate student at Toronto Metropolitan University, Department of Chemistry and Biology**  
   Role: Mentor  

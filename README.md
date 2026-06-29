@@ -3,7 +3,7 @@
 
 ## FOLLOW MY RESEARCH 
 
-(research-portfolio.md)
+[Research Portfolio](research-portfolio.md)
 
 ### ON THE WEB APP
 

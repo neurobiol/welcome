@@ -3,6 +3,14 @@
 
 ## FOLLOW MY RESEARCH 
 
+[GitHub Repository for the Automata project](https://github.com/neurobiol/memory-plastic-automata)
+
+For the Artificial Life class audience, you may ignore the below.
+
+The paper link will be posted here soon. 
+
+More info about my research:
+
 [Research Portfolio](research-portfolio.md)
 
 ### ON THE WEB APP

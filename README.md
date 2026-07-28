@@ -5,6 +5,13 @@
 
 [GitHub Repository for the Automata project](https://github.com/neurobiol/memory-plastic-automata)
 
+[YouTube Link for the Presentation](https://youtu.be/9uMr_CT-PEU?si=TmsumZeetKK69-H-)
+
+The YouTube video will be updated soon with voice over. 
+
+You can also find videos of 22 other simulations on the same YouTube channel. This includes the four positive-change ones. 
+
+
 For the Artificial Life class audience, you may ignore the below.
 
 The paper link will be posted here soon. 

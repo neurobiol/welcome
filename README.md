@@ -3,18 +3,25 @@
 
 ## FOLLOW MY RESEARCH 
 
+Can life exist "inside" the atom?
+
+Link to app...
+
+
+Poster on Automata
+
 [GitHub Repository for the Automata project](https://github.com/neurobiol/memory-plastic-automata)
 
 [YouTube Link for the Presentation](https://youtu.be/9uMr_CT-PEU?si=TmsumZeetKK69-H-)
 
-The YouTube video will be updated soon with voice over. 
+The YouTube video will be updated soon with voice over. Or, come to my poster to find out more about it.
 
 You can also find videos of 22 other simulations on the same YouTube channel. This includes the four positive-change ones. 
 
 
-For the Artificial Life class audience, you may ignore the below.
+For the Artificial Life conference audience, you may ignore the below.
 
-The paper link will be posted here soon. 
+The paper is available on Alife2026 website (add link).
 
 More info about my research:
 
@@ -28,41 +35,6 @@ More info about my research:
 
 A link to the relevant content repository will be shared here **only during the presentation window**. 
 
-# QIP 2026 (9 - 12 June 2026)
-
-[Partnered Dancing to Improve Mobility for People With Parkinson's Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC4675848/)
-
-
-
-
-
-# QUEBS 2026 (3 - 5 June 2026)
-
-Are you at the Quantum Effects in Biological Systems?
-
-Visit posters:
-
-- on Tryptamines
-
-- Quantum-inspired Metrics
-
-- Plasticity (that's me smiling at you :)
-
-Where is the line of non-triviality? What is quantum and what is not? Come, let's chat about it in Budapest! 
- 
-Thank you.  
-
-# EXTRA NOTE
-
-## Some Personal Observation and Side History 
-
-Ten years ago, the 8th Workshop on Quantum Effects in Biological Systems (QuEBS 2016) was held in Durban, South Africa, from June 6 to 9, 2016.The conference was chaired and organized by Professor Francesco Petruccione, who was then based at the University of KwaZulu-Natal (UKZN).
-I was in the host institute and gave a flash talk there and it was on World Oceans Day, and I mentioned, how about studying quantum biology in the ocean. It did not make sense that time for some.
-
-Today, ten years after that, there was a talk yesterday on coral studies related to quantum biology! 
-
-What next?!
-
 
 
 # Note
@@ -75,6 +47,7 @@ Thank you for visiting!
 
 **Topics of interest** 
 
+Automata
 
 Plasticity • Parkinson • and more  
 

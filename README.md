@@ -3,12 +3,15 @@
 
 ## FOLLOW MY RESEARCH 
 
+### Paper and Talk at ALIFE2026 conference
+
 Can life exist "inside" the atom?
 
 Link to app...
 
+### Poster on Automata
 
-Poster on Automata
+
 
 [GitHub Repository for the Automata project](https://github.com/neurobiol/memory-plastic-automata)
 

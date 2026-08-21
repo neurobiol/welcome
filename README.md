@@ -767,6 +767,7 @@ For the broader scientific field:
 
 * [Quantum biology overview](https://en.wikipedia.org/wiki/Quantum_biology)
 * [Example review/article on quantum effects in biology](https://pmc.ncbi.nlm.nih.gov/articles/PMC6304024/)
+* [Quantum in Biology, Quantum for Biology, and Biology for Quantum: Mapping the Evidence and the Road Ahead](https://arxiv.org/abs/2605.00205)
 
 ---
 

@@ -38,7 +38,7 @@ The paper is available on [Alife2026 website](https://2026.alife.org/).
 
 [Swarm Memory: Does an Ant's Past Predict Its Future?](https://github.com/neurobiol/swarm-memory/blob/main/ant_motion_memory_fir/README.md)
 
-# The Link of today's talks to Quantum Biology
+# Is there a link between the talks in the Quantum Biology session?
 
 # Physical Biosemiotics, Schrödinger, Quantum Biology, and Open-Endedness
 

@@ -55,10 +55,11 @@ This work develops and tests adaptive-plasticity models of memory using matched 
   Role: First author  
   Status: Accepted
 
-- **Quantum-Like Artificial Life with Memory and Plasticity**  
+- **Geometry, Plasticity, and Memory in Cellular
+Automata with Quantum-Like Hidden States**  
   Role: author  
-  Status: Proposal submitted for *Artificial Life: Biology and Computation*  
-  Note: Course being audited
+  Status: Completed, paper submitted for class, *Artificial Life: Biology and Computation*, presented as a poster at ALIFE2026 conference. 
+  Note: Course was audited. Marks for the Project report: 96 / 100
 
 ---
 

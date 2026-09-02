@@ -31,7 +31,7 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 
 - **Quantum in Biology, Quantum for Biology, and Biology for Quantum: Mapping the Evidence and the Road Ahead**  
   **Role:** Third author  
-  **Status:** Preprint
+  **Status:** Submitted to Advances in Physics: X
 
 - **Quantum Biology Forum White Paper on Quantum Biology and Biomedical Applications**  
   **Role:** Collaborator  
@@ -56,11 +56,17 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 
 - **How Topology Shapes Synchrony in Directed Signed Memristive FitzHugh-Nagumo Networks**  
   **Role:** Second author  
-  **Status:** Accepted
+  **Status:** [Published open-acess by MIT Press](https://direct.mit.edu/isal/isal2026/volume/38)
 
 - **Can Life Exist “Inside” an Atom?**  
   **Role:** First author  
-  **Status:** Accepted
+  **Status:** [Published open-acess by MIT Press](https://direct.mit.edu/isal/isal2026/volume/38)
+
+- **Threshold observability of weakly coupled dynamics: convex log-space geometry, nonlinear amplification and multichannel detection**
+  **Role:** First author
+  **Status:** Manuscript is ready.
+  **Note:** This is an extension work of the paper above.   
+  
 
 - **Geometry, Plasticity, and Memory in Cellular Automata with Quantum-Like Hidden States**  
   **Role:** Author  
@@ -85,6 +91,11 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
   **Status:** Phase 1 completed as a BIOL 614 course project in collaboration with Wilfrid Laurier University
 
 ### AI, cognition, and psychology
+
+**Order Effects in AI-Assisted Legal Judgment: A Quantum-Like Theory of Contextual Oversight**
+**Role:** First author
+ **Status:** In progress  
+ **Collaboration:** Jagiellonian University in Kraków, Poland
 
 - **Smarter in Which Sense? A Diagnostic Framework for AI-Human Intelligence Claims**  
   **Role:** First author  

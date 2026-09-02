@@ -145,12 +145,14 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 - **Remote mentoring of an undergraduate student at Toronto Metropolitan University, Department of Chemistry and Biology**  
   **Role:** Mentor  
   **Topic:** Academic article on Parkinson's disease
+  **Term:** Spring 2026
 
-### Service
+### Editorial, mentoring, and peer-review service
 
-- **URNCST Journal**  
-  **Role:** Reviewer  
-  **Status:** Ongoing
+- **[Undergraduate Research in Natural and Clinical Science and Technology (URNCST) Journal](https://urncst.com/)**  
+  **Role:** Associate Editor  
+  **Status:** Ongoing  
+  **Activities:** Supporting undergraduate researchers through scientific writing and publication while contributing to editorial assessment and peer review.
 
 ---
 

@@ -92,7 +92,7 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 
 ### AI, cognition, and psychology
 
-**Order Effects in AI-Assisted Legal Judgment: A Quantum-Like Theory of Contextual Oversight**
+- **Order Effects in AI-Assisted Legal Judgment: A Quantum-Like Theory of Contextual Oversight**
 **Role:** First author
  **Status:** In progress  
  **Collaboration:** Jagiellonian University in Kraków, Poland

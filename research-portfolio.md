@@ -176,7 +176,7 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
   **Type:** Talk  
   **Award:** Graduate Dissemination Award, University of Waterloo
 
-**ALIFE 2026, Waterloo**  
+- **ALIFE 2026, Waterloo**  
   **Type:** Talk and Poster
   (Also co-organizer of the Special Quantum Biology Sesssion which was very well received.)  
 

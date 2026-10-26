@@ -1,8 +1,26 @@
-# Bioinformatics Mini-Projects
+# Bioinformatics Projects
 
-A collection of applied bioinformatics projects completed as part of a graduate-level course in bioinformatics at the University of Waterloo. Each project received full marks. More importantly, the work shows how I approach unfamiliar technical domains: learn the tools independently, build a reproducible workflow, check assumptions and data quality, and communicate results in a form others can use.
+A collection of applied bioinformatics projects completed as part of a graduate-level course in bioinformatics at the University of Waterloo. Each project received full marks. More importantly, the work shows how I *approach unfamiliar technical domains: learn the tools independently, build a reproducible workflow, check assumptions and data quality, and communicate results* in a form others can use.
 
-I entered the course without formal university-level biology or prior bioinformatics training. My starting point was an A-level chemistry education that included DNA, followed by focused self-learning and hands-on work with sequencing data, biological databases, statistical methods, and genomics software. The projects below reflect both the breadth of that learning and my ability to contribute beyond a narrowly defined role.
+## Skills acquired
+
+- **Fast learning across disciplines:** moved from limited prior biology coursework to completing several graduate-level computational biology workflows.
+  
+- **End-to-end execution:** handled data retrieval, quality control, analysis, visualization, and written interpretation.
+  
+- **Technical adaptability:** worked across R, command-line tools, public sequence repositories, and specialized genomics software.
+  
+- **Sound analytical judgment:** checked reference annotations, used appropriate multiple-testing controls, and distinguished exploratory patterns from statistically supported conclusions.
+  
+- **Transferable problem-solving:** broke unfamiliar tasks into verifiable steps, investigated unexpected outputs, and used documentation and published research to guide decisions.
+
+These capabilities are useful in research and technology teams where projects cross disciplinary boundaries and progress depends on people who can learn unfamiliar systems, make them operational, and communicate their results clearly.
+
+### Note
+
+I entered the course without formal university-level biology or prior bioinformatics training. My formal background knowledge for this field was an A-level chemistry education that included DNA, followed by focused self-learning and hands-on work with sequencing data, biological databases, statistical methods, and genomics software. However, my twelve years experience in research helped me to digest the contents in an unusually unstressful way.
+
+The projects below reflect both the breadth of the learning and my ability to contribute beyond a narrowly defined role.
 
 ## Selected projects
 
@@ -10,13 +28,13 @@ I entered the course without formal university-level biology or prior bioinforma
 
 Analyzed a public RNA-seq dataset of human airway cells exposed to tobacco smoke extract, comparing four treated samples with four controls. I inspected transcript quantification outputs, tested a target transcript, and carried out gene-level differential-expression analysis in R. The workflow included multiple-testing correction, effect-size thresholds, ranked gene tables, volcano plots, and a variance-stabilized heatmap. I also compared results across two GENCODE annotation releases and checked whether the main biological signal remained consistent.
 
-The analysis identified 43 significantly upregulated and 25 significantly downregulated genes under the selected adjusted-p-value and fold-change thresholds. I then carried out additional targeted comparisons of smoke-response genes reported in the source study. This work demonstrates statistical reasoning, R-based analysis, data visualization, reference-version awareness, and the ability to connect computational results with published biology.
+The analysis identified 43 significantly upregulated and 25 significantly downregulated genes under the selected adjusted-p-value and fold-change thresholds. I then carried out additional targeted comparisons of smoke-response genes reported in the source study. This work demonstrates *statistical reasoning, R-based analysis, data visualization, reference-version awareness, and the ability to connect computational results with published biology.*
 
 ### 16S microbiome profiling
 
 Built a workflow around 12 paired-end 16S rRNA V3–V4 sequencing runs from a public study of healthy controls, people with REM sleep behavior disorder, their first-degree relatives, and people with early Parkinson’s disease. I retrieved run data programmatically from the European Nucleotide Archive, checked read quality, classified sequences with Kraken 2, estimated genus-level abundance with Bracken, and produced taxonomic profiles and exploratory diversity and ordination visualizations.
 
-The work extended beyond the minimum plotting task to include cohort-aware visualizations, clustered heatmaps, alpha-diversity summaries, PCA, and Bray–Curtis PCoA. I treated these as exploratory results and noted that visual separation alone does not establish a cohort effect; formal testing and covariate-aware analysis would be needed. This demonstrates end-to-end data handling, command-line and computational workflow skills, careful interpretation, and clear communication of analytical limits.
+The work extended beyond the minimum plotting task to include cohort-aware visualizations, clustered heatmaps, alpha-diversity summaries, PCA, and Bray–Curtis PCoA. I treated these as exploratory results and noted that visual separation alone does not establish a cohort effect; formal testing and covariate-aware analysis would be needed. This demonstrates *end-to-end data handling, command-line and computational workflow skills, careful interpretation, and clear communication of analytical limits*.
 
 ### Viral genome assembly and annotation
 
@@ -30,15 +48,7 @@ Used protein-family searches to identify homologs, construct and refine multiple
 
 This work developed practical familiarity with sequence databases and homology searches, alignment quality control, evolutionary comparisons, and the relationship between sequence conservation and protein structure.
 
-## What these projects show
 
-- **Fast learning across disciplines:** moved from limited prior biology coursework to completing several graduate-level computational biology workflows.
-- **End-to-end execution:** handled data retrieval, quality control, analysis, visualization, and written interpretation.
-- **Technical adaptability:** worked across R, command-line tools, public sequence repositories, and specialized genomics software.
-- **Sound analytical judgment:** checked reference annotations, used appropriate multiple-testing controls, and distinguished exploratory patterns from statistically supported conclusions.
-- **Transferable problem-solving:** broke unfamiliar tasks into verifiable steps, investigated unexpected outputs, and used documentation and published research to guide decisions.
-
-These capabilities are useful in research and technology teams where projects cross disciplinary boundaries and progress depends on people who can learn unfamiliar systems, make them operational, and communicate their results clearly.
 
 ## Acknowledgment
 

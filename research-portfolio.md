@@ -90,6 +90,8 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
   **Role:** Collaborator  
   **Status:** Phase 1 completed as a BIOL 614 course project in collaboration with Wilfrid Laurier University
 
+  [Skills acquired from bioinformatics projects](bioinformatics.md)
+
 ### AI, cognition, and psychology
 
 - **Order Effects in AI-Assisted Legal Judgment: A Quantum-Like Theory of Contextual Oversight**

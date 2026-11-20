@@ -2,26 +2,13 @@
 
 This page provides a public overview of my current and recent research activities across quantum biology, quantum neurobiology, memory and plasticity, artificial life, transcriptomics, quantum sensing, and AI and cognition.
 
-My current Master of Science thesis focuses on phase and coupling geometry in electrophysiological brain signals. The other items below are related research, training, collaboration, dissemination, teaching, mentoring, and service activities. They are listed as a living research portfolio rather than as thesis deliverables.
+My current Master of Science thesis focuses on understanding brain activity at rest and during movement through computational comparisons of quantum-like and classical brain network models. The other items below are related research, training, collaboration, dissemination, teaching, mentoring, and service activities. 
 
 ---
 
-## Current thesis focus
+# THERE IS ALWAYS MORE...
 
-### Phase and Coupling Geometry of Brain States
-
-This thesis asks whether relationships among neural signals carry information about experimentally defined brain states beyond local signal power. It studies two domains:
-
-- working-memory conditions in public electroencephalography datasets; and
-- consciousness-related conditions involving responsiveness under propofol and reported visual awareness.
-
-The analysis first tests the biological question: whether phase or power-normalized coupling changes across conditions or improves held-out prediction beyond local power. It then compares matched classical and quantum-like representations of the same complex matrices, including Euclidean vectorization, principal component analysis, Frobenius distance, classical Riemannian geometry, Bures distance, and compact operator summaries.
-
-The electrophysiological signals remain classical. The term *quantum-like* refers only to the operator representation and geometry used to analyze them. Classical and quantum-like methods receive the same matrix information and held-out data so that any practical advantage can be tested fairly.
-
-The mathematical specification, synthetic controls, and first propofol analysis are complete. The next core steps are the participant-held-out working-memory benchmark, an independent working-memory replication, and an independent propofol replication.
-
-Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neurobiol/brain-states)
+See my contact details further down to find out more...
 
 ---
 
@@ -113,13 +100,20 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 
 ## Funding and proposal activities
 
-- **PSSO funding application**  
+- **Trans-Atlantic Platform (T-AP) 2026: Preparing for Tomorrow**
+  **Project:** Q-ORDER (Quantum-like Order-Robust Decision Evaluation for Rights)  
+  **Role:** Main project coordinator and research team member; contributed to proposal development and the quantum-like computational modeling component.  
+  **Status:** Full proposal submitted in October 2026; funding decision pending. International research collaboration involving Canada, Poland, and South Africa.
+
+- **PSSO funding application (early 2026)**  
   **Role:** Applicant  
   **Status:** Submitted; not selected
 
-- **Bergel funding application**  
+- **Bergel funding application (April 2026)**  
   **Role:** Applicant  
-  **Status:** Shortlisted for two interviews among 15 shortlisted applicants from approximately 650; not selected among the three awardees. A possible advisory committee role was proposed.
+  **Status:** Shortlisted for two interviews among 15 shortlisted applicants from approximately 650 worldwide; not selected among the three awardees. A possible advisory committee role was proposed.
+
+  
 
 ---
 
@@ -149,6 +143,11 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
   **Topic:** Academic article on Parkinson's disease
   **Term:** Spring 2026
 
+  - **Remote mentoring of undergraduate students (3 active groups)**  
+  **Role:** Mentor  
+  **Topic:** Academic articles on several topics
+  **Term:** Fall 2026
+
 ### Editorial, mentoring, and peer-review service
 
 - **[Undergraduate Research in Natural and Clinical Science and Technology (URNCST) Journal](https://urncst.com/)**  
@@ -160,27 +159,80 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 
 ## Presentations, posters, and awards
 
-- **PHYS10, University of Waterloo**  
+- **PHYS10, University of Waterloo, Feb 2026**  
   **Type:** Poster presentation
 
-- **PATH, University of Waterloo**  
+- **PATH, University of Waterloo, April 2026**  
   **Type:** Poster and flash talk  
   **Award:** Best Flash Talk Award
 
-- **Quantum Biology Forum, Silver Spring, United States**  
+- **Quantum Biology Forum, Silver Spring, United States, April 2026**  
   **Type:** Poster presentation  
   **Award:** Graduate Dissemination Award, University of Waterloo
 
-- **QUEBS, Hungary**  
+- **QUEBS June 2026, Hungary**  
   **Type:** Poster presentation
 
-- **QIP 2026, Sweden**  
+- **QIP June 2026, Sweden**  
   **Type:** Talk  
   **Award:** Graduate Dissemination Award, University of Waterloo
 
-- **ALIFE 2026, Waterloo**  
+- **ALIFE August 2026, Waterloo**  
   **Type:** Talk and Poster
-  (Also co-organizer of the Special Quantum Biology Sesssion which was very well received.)  
+  (Also co-organizer of the Special Quantum Biology Sesssion which was very well received.)
+
+- **The Science of Consciousness, San Diego Oct 2026**  
+  **Type:** Poster presentation
+
+- **1st International Congress on Neuroscience and Psychotherapy – Neuroconexiones, Universidad Norbert Wiener, Lima, Perú Nov 2026**  
+  **Type:** Invited Talk (in Spanish and English)
+
+- **Symposium on Neuroscience Research, Waterloo 2026**
+- **Type:** Poster presentation
+
+  
+---
+
+## Current thesis focus (October - December 2026)
+
+### Understanding Brain Activity at Rest and During Movement
+*A Computational Study Using Quantum-Like and Classical Brain Network Models*
+
+This thesis investigates whether models of resting brain activity can help explain and estimate how different brain regions respond during movement. It uses resting-state and motor-task functional MRI (fMRI) recordings from the Human Connectome Project, together with anatomical brain connectivity, to study relationships between spontaneous brain activity and movement-related responses.
+
+The study compares four computational brain-network models: two networks of coupled Stuart–Landau oscillators with 80% and 20% of their local connections retained, a simpler single-oscillator model, and a linear stochastic model. The 80%-retained network follows a recent quantum-like (QL) modelling approach in which the spectral structure of interacting classical oscillators motivates the QL interpretation.
+
+The analysis has three main objectives:
+
+- Measure resting-state functional connectivity and movement-related BOLD responses across 62 cortical regions.
+- Calibrate the four models using resting-state recordings and evaluate how well they reproduce connectivity in separate resting recordings.
+- Use the resting-calibrated models and known movement timing to estimate regional motor-task responses, comparing these estimates with measured responses from held-out participants.
+
+The study also examines whether the models capture differences between left- and right-sided motor responses and whether individual resting-state measurements improve the estimates.
+
+The term *quantum-like* refers to mathematical properties of the oscillator networks, not evidence of microscopic quantum processes in the brain. By comparing quantum-like-motivated and classical models under the same evaluation framework, the thesis aims to clarify whether the additional network structure provides a measurable advantage in understanding brain activity at rest and during movement.
+
+**Current status:** MSc research proposal developed. The planned work includes HCP data preparation, model implementation, independent resting-state evaluation, motor-response estimation, and reproducible computational analysis.
+
+
+---
+
+## Previous thesis focus (August-September 2026)
+
+### Phase and Coupling Geometry of Brain States
+
+This thesis asks whether relationships among neural signals carry information about experimentally defined brain states beyond local signal power. It studies two domains:
+
+- working-memory conditions in public electroencephalography datasets; and
+- consciousness-related conditions involving responsiveness under propofol and reported visual awareness.
+
+The analysis first tests the biological question: whether phase or power-normalized coupling changes across conditions or improves held-out prediction beyond local power. It then compares matched classical and quantum-like representations of the same complex matrices, including Euclidean vectorization, principal component analysis, Frobenius distance, classical Riemannian geometry, Bures distance, and compact operator summaries.
+
+The electrophysiological signals remain classical. The term *quantum-like* refers only to the operator representation and geometry used to analyze them. Classical and quantum-like methods receive the same matrix information and held-out data so that any practical advantage can be tested fairly.
+
+The mathematical specification, synthetic controls, and first propofol analysis are complete. The next core steps are the participant-held-out working-memory benchmark, an independent working-memory replication, and an independent propofol replication.
+
+Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neurobiol/brain-states)
 
 
 
@@ -190,4 +242,4 @@ Repository: [Phase and Coupling Geometry of Brain States](https://github.com/neu
 
 For questions or collaboration inquiries, please contact me at [yhgoolam@uwaterloo.ca](mailto:yhgoolam@uwaterloo.ca).
 
-Last updated: September 2, 2026.
+Last updated: November 20, 2026.

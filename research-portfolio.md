@@ -187,8 +187,8 @@ See my contact details further down to find out more...
 - **1st International Congress on Neuroscience and Psychotherapy – Neuroconexiones, Universidad Norbert Wiener, Lima, Perú Nov 2026**  
   **Type:** Invited Talk (in Spanish and English)
 
-- **Symposium on Neuroscience Research, Waterloo 2026**
-- **Type:** Poster presentation
+- **Symposium on Neuroscience Research (SONR), Waterloo 2026**
+- **Type:** Oral presentation
 
   
 ---

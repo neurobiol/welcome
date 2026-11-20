@@ -2,6 +2,7 @@
 
 These are the older posts. 
 
+["Poster" for The Science of Consciousness](https://neurobiol.github.io/brain-energy/)
 
 ## FOLLOW MY RESEARCH 
 

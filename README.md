@@ -15,7 +15,9 @@ More info about my research:
 
 *Installation is optional.*
 
-[View the research (poster) companion app here.](https://neurobiol.github.io/unlearn/)  
+["Brain Energy Poster App" for The Science of Consciousness](https://neurobiol.github.io/brain-energy/)
+
+[Plasticity and Parkinson's](https://neurobiol.github.io/unlearn/)  
 
 A link to the relevant content repository will be shared here **only during the presentation window**. 
 

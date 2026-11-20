@@ -3,7 +3,7 @@
 
 ## FOLLOW MY RESEARCH 
 
-["Poster" for The Science of Consciousness](https://neurobiol.github.io/brain-energy/)
+
 
 
 

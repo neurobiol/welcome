@@ -18,7 +18,7 @@ See my contact details further down to find out more...
 
 - **Quantum in Biology, Quantum for Biology, and Biology for Quantum: Mapping the Evidence and the Road Ahead**  
   **Role:** Third author  
-  **Status:** Submitted to Advances in Physics: X
+  **Status:** Accepted at Advances in Physics: X
 
 - **Quantum Biology Forum White Paper on Quantum Biology and Biomedical Applications**  
   **Role:** Collaborator  
@@ -31,12 +31,12 @@ See my contact details further down to find out more...
 
 - **Quantum Sensing for Biology: From Physical Sensitivity to Biological Inference**  
   **Role:** Second author  
-  **Status:** Manuscript in progress  
+  **Status:** Manuscript ready for submission  
   **Target journal:** *PRX Life*
 
 - **Ultraweak Photon Emission: A Multiscale Framework for Biological Sources, Measurement, Signal Processing, and Future Biomedical Use**  
   **Role:** Co-author  
-  **Status:** In progress  
+  **Status:** Manuscript completed  
   **Collaboration:** Wilfrid Laurier University, Canada
 
 ### Artificial life and theoretical biology
@@ -57,7 +57,7 @@ See my contact details further down to find out more...
 
 - **Geometry, Plasticity, and Memory in Cellular Automata with Quantum-Like Hidden States**  
   **Role:** Author  
-  **Status:** Course paper completed and submitted; work presented as a poster at the ALIFE 2026 conference  
+  **Status:** Course paper completed and submitted; work presented as a poster at the ALIFE 2026 conference. Now under review at Complex systems.  
   **Context:** The course, *Artificial Life: Biology and Computation*, was audited. The project report received 96/100.
 
 ### Quantum foundations and biological modeling
